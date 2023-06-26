@@ -3,7 +3,8 @@
 This is a online sweet shop webpage, In this website anyone can check all type of sweets available and contact us also they can buy the sweet with our bot.
 I have used html, css, js with AZURE LANGUAGE STUDIO, BOT SERVICE, STATIC WEB APP SERVICE.
 
-Project demo link: 
+Project demo link: https://orange-dune-0f9f3bf10.3.azurestaticapps.net
+
 
 Some of the screen shot taken while working on this project in azure
 
@@ -20,3 +21,7 @@ Some of the screen shot taken while working on this project in azure
 ![image](https://github.com/ReshmaKalabattula/Online-sweetshop/assets/113781790/044a980e-ab9d-42d2-b0df-cc9191f20196)
 
 5.Creating the Static webapp service for deploying the webpage
+![image](https://github.com/ReshmaKalabattula/Online-sweetshop/assets/113781790/fe8a9021-be5d-4c17-80bd-a80558239c5e)
+
+6.Scuccessfully deployed the web page
+![image](https://github.com/ReshmaKalabattula/Online-sweetshop/assets/113781790/80aca4f2-a438-47de-98ad-0f791f708396)
